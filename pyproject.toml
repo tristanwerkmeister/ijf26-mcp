@@ -1,0 +1,12 @@
+[project]
+name = "ijf26-mcp"
+version = "0.1.0"
+description = "MCP server for International Journalism Festival 2026 session transcripts"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1",
+    "mcp>=1.27.0",
+    "sqlite-utils>=3.39",
+    "yt-dlp>=2026.3.17",
+]

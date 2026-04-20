@@ -1,0 +1,18 @@
+# Database — built locally by running fetch_transcripts.py
+*.db
+*.db-shm
+*.db-wal
+
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# macOS
+.DS_Store
