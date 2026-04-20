@@ -24,7 +24,7 @@ All 161 sessions across 8 venues were livestreamed to [YouTube](https://www.yout
 ### 1. Clone the repo
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/ijf26-mcp.git
+git clone https://github.com/tristanwerkmeister/ijf26-mcp.git
 cd ijf26-mcp
 ```
 
